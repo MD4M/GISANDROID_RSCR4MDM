@@ -27,9 +27,9 @@ Tetap Semangat ...semangat...semangat<br>
 
 # Data Link Pertemuan A&PPL
 <oi>
-  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/1">Saduran Pertemuan Ke-1 </a> </h4>
-  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/2">Saduran Pertemuan Ke-2 </a> </h4>
+  <h4><a href ="https://md4m.github.io/GISANDROID_RSCR4MDM/1">Pertemuan Pertama GIS Android</a> </h4>
+<!--   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/2">Saduran Pertemuan Ke-2 </a> </h4>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/3">Saduran Pertemuan Ke-3 </a> </h4>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/4">Saduran Pertemuan Ke-4 </a> </h4>
-  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/5">Saduran Pertemuan Ke-5 </a> </h4>
+  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/5">Saduran Pertemuan Ke-5 </a> </h4> -->
 </oi>
