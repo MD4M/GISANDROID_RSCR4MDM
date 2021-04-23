@@ -1,4 +1,4 @@
-package ac.id.atmaluhur.ti6ma_rscrmdm_map;
+package rscr4mdm.ti6ma_rscrmdm_map;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("ac.id.atmaluhur.ti6ma_rscrmdm_map", appContext.getPackageName());
+        assertEquals("rscr4mdm.ti6ma_rscrmdm_map", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package ac.id.atmaluhur.ti6ma_rscrmdm_map;
+package rscr4mdm.ti6ma_rscrmdm_map;
 
 import org.junit.Test;
 
