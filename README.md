@@ -34,4 +34,4 @@ Tetap Semangat ...semangat...semangat<br>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/5">Saduran Pertemuan Ke-5 </a> </h4> -->
 </oi>
 <br>
-<img src="dafi.jpg">
+<img src="dafi.jpeg">
